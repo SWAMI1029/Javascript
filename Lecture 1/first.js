@@ -1,0 +1,13 @@
+console.log("Hello coder army");
+let num=10;
+console.log(num);
+const ids=20;
+console.log(ids);
+let n = 1.38798;
+console.log(n);
+let va="Rohit";
+console.log(va);
+var x=10;
+console.log(x);
+var x=10;
+console.log(x);
